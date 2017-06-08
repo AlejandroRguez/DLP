@@ -1,0 +1,10 @@
+
+
+main(){
+	print '\n';
+	printsp 2+3;
+	println;
+	print;
+	printsp;
+	
+}
